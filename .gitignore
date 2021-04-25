@@ -133,3 +133,6 @@ config.py
 
 #Ignore .DS Store file
 .DS_Store
+
+#Ignore apikey
+apikey.py
